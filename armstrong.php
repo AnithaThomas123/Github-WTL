@@ -1,4 +1,5 @@
 <?php
+echo"hello Anitha Thomas, Your profile is amazing";
 if(isset($_POST['submit']))
 {
 $num=$_POST['num'];
